@@ -1,0 +1,12 @@
+
+.commen_section{
+    background: linear-gradient(rgba(0.0,0.0,0.0,0.564),#312d2d),url('../assets/images/table.jpg') no-repeat center center ;
+    background: cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+.commen_section h1{
+    color: #fff;
+    font-weight: 600;
+}

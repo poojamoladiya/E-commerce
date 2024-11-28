@@ -1,0 +1,58 @@
+.footer{
+    padding-top: 60px;
+    text-decoration: none;
+    padding-bottom: 30px;
+    background-color: var(--primary-color);
+}
+
+.footer_text{
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.735);
+}
+
+.footer_quick-links ul li{
+    background: transparent !important;
+    
+}
+.footer_quick-links ul li a {
+     color: red;
+     text-decoration: none;
+     
+}
+
+.quick_links-title{
+    margin-bottom: 20px;
+    color: aliceblue;
+    font-size: 1.1rem;
+}
+
+
+.footer_quick-links a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.735);
+
+
+}
+.footer_quick-links span{
+    color: white;
+    margin: 1px;
+   text-align: center;
+}
+.footer_contact li span, .footer-contect li p{
+    color: rgba(255, 255, 255, 0.735);
+    
+
+}
+.footer_contact li span{
+    font-size: 1.2rem;
+    margin-top: -30px;
+    position: absolute;
+    color: red;
+    
+}
+.footer_contact li p{
+    font-size: .9rem;
+
+}
+
+
